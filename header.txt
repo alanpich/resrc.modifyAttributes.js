@@ -1,0 +1,7 @@
+/*!
+ * ReSRC Modify Attributes plugin
+ * Copyright (C) 2014 Alan Pich <alan.pich@gmail.com>
+ * http://github.com/alanpich
+ * Licensed under the MIT license
+ */
+
